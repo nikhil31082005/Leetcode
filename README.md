@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikhil31082005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## String
+|  |
+| ------- |
+| [0916-decoded-string-at-index](https://github.com/nikhil31082005/Leetcode/tree/master/0916-decoded-string-at-index) |
+## Stack
+|  |
+| ------- |
+| [0916-decoded-string-at-index](https://github.com/nikhil31082005/Leetcode/tree/master/0916-decoded-string-at-index) |
 <!---LeetCode Topics End-->
