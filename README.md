@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhil31082005/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/nikhil31082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nikhil31082005/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikhil31082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0916-decoded-string-at-index](https://github.com/nikhil31082005/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhil31082005/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/nikhil31082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Stack
 |  |
@@ -102,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhil31082005/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/nikhil31082005/Leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
