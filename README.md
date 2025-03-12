@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nikhil31082005/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2107-find-unique-binary-string](https://github.com/nikhil31082005/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhil31082005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhil31082005/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
