@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0039-combination-sum) |
+| [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0283-move-zeroes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/nikhil31082005/Leetcode/tree/master/0077-combinations) |
+| [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/nikhil31082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikhil31082005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhil31082005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0916-decoded-string-at-index](https://github.com/nikhil31082005/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhil31082005/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikhil31082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhil31082005/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
