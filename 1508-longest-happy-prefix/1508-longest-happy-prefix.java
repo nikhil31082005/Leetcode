@@ -19,6 +19,7 @@ class Solution {
                 }
             }
         }
-        return s.substring(0, len);
+        // return s.substring(0, len);
+        return s.substring(0, dp[dp.length - 1]);
     }
 }
