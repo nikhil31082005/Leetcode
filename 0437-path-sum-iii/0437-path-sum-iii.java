@@ -14,23 +14,28 @@
  * }
  */
 class Solution {
+    HashMap<Long, Integer> map = new HashMap<>();
+    int c = 0;
     public int pathSum(TreeNode root, int targetSum) {
-        if(root == null){
-            return 0;
-        }
-        return countPath(root, targetSum, 0l) + pathSum(root.left, targetSum) + pathSum(root.right, targetSum);
+        countPath(root, targetSum, 0);
+        return c;
     }
-    public int countPath(TreeNode root, int targetSum, long sum){
+    public void countPath(TreeNode root, int targetSum, long sum){
         if(root == null){
-            return 0;
+            return;
         }
-        int c = 0;
-        if(targetSum == sum + root.val){
+
+        sum += root.val;
+        if(sum == targetSum){
             c++;
         }
-        
-        int left = countPath(root.left, targetSum, sum + root.val);
-        int right = countPath(root.right, targetSum, sum + root.val);
-        return c + left + right;
+        c = c + map.getOrDefault(sum - targetSum, 0);
+        map.put(sum, map.getOrDefault(sum, 0) + 1);
+        countPath(root.left, targetSum, sum);
+        countPath(root.right, targetSum, sum);
+        map.put(sum, map.get(sum) - 1);
+        if(map.get(sum) == 0){
+            map.remove(sum);
+        }
     }
 }
