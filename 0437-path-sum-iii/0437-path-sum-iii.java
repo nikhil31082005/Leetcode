@@ -17,7 +17,7 @@ class Solution {
     HashMap<Long, Integer> map = new HashMap<>();
     int c = 0;
     public int pathSum(TreeNode root, int targetSum) {
-        countPath(root, targetSum, 0);
+        countPath(root, targetSum, 0l);
         return c;
     }
     public void countPath(TreeNode root, int targetSum, long sum){
