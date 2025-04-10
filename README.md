@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0039-combination-sum) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/nikhil31082005/Leetcode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
+| [0312-burst-balloons](https://github.com/nikhil31082005/Leetcode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nikhil31082005/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
