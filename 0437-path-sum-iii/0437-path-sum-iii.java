@@ -34,8 +34,5 @@ class Solution {
         countPath(root.left, targetSum, sum);
         countPath(root.right, targetSum, sum);
         map.put(sum, map.get(sum) - 1);
-        if(map.get(sum) == 0){
-            map.remove(sum);
-        }
     }
 }
