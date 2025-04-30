@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nikhil31082005/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhil31082005/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/nikhil31082005/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nikhil31082005/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/nikhil31082005/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhil31082005/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nikhil31082005/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhil31082005/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikhil31082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nikhil31082005/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhil31082005/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,12 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhil31082005/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhil31082005/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhil31082005/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## String Matching
 |  |
