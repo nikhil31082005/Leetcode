@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/nikhil31082005/Leetcode/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil31082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/nikhil31082005/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [0916-decoded-string-at-index](https://github.com/nikhil31082005/Leetcode/tree/master/0916-decoded-string-at-index) |
 | [1122-longest-duplicate-substring](https://github.com/nikhil31082005/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/nikhil31082005/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikhil31082005/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhil31082005/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/nikhil31082005/Leetcode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
+| [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nikhil31082005/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhil31082005/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
