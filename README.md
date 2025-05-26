@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhil31082005/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nikhil31082005/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/nikhil31082005/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nikhil31082005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhil31082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhil31082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhil31082005/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nikhil31082005/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhil31082005/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2854-decremental-string-concatenation](https://github.com/nikhil31082005/Leetcode/tree/master/2854-decremental-string-concatenation) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nikhil31082005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhil31082005/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nikhil31082005/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nikhil31082005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
@@ -364,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
