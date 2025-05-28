@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nikhil31082005/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/nikhil31082005/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2792-neighboring-bitwise-xor](https://github.com/nikhil31082005/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2854-decremental-string-concatenation](https://github.com/nikhil31082005/Leetcode/tree/master/2854-decremental-string-concatenation) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikhil31082005/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhil31082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/nikhil31082005/Leetcode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/nikhil31082005/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhil31082005/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2854-decremental-string-concatenation](https://github.com/nikhil31082005/Leetcode/tree/master/2854-decremental-string-concatenation) |
 ## Binary Search
 |  |
@@ -343,12 +346,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
