@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
