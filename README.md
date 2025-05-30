@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/nikhil31082005/Leetcode/tree/master/1127-last-stone-weight) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nikhil31082005/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
