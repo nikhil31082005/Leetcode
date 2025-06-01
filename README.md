@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/nikhil31082005/Leetcode/tree/master/0312-burst-balloons) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhil31082005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil31082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhil31082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhil31082005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/nikhil31082005/Leetcode/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil31082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0312-burst-balloons](https://github.com/nikhil31082005/Leetcode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhil31082005/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -411,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Bitmask
 |  |
