@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhil31082005/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhil31082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/nikhil31082005/Leetcode/tree/master/2509-minimize-xor) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhil31082005/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2681-put-marbles-in-bags](https://github.com/nikhil31082005/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Brainteaser
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhil31082005/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nikhil31082005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhil31082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhil31082005/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2854-decremental-string-concatenation](https://github.com/nikhil31082005/Leetcode/tree/master/2854-decremental-string-concatenation) |
 ## Stack
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/nikhil31082005/Leetcode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhil31082005/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/nikhil31082005/Leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2854-decremental-string-concatenation](https://github.com/nikhil31082005/Leetcode/tree/master/2854-decremental-string-concatenation) |
