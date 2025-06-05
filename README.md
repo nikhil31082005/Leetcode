@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/nikhil31082005/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [0916-decoded-string-at-index](https://github.com/nikhil31082005/Leetcode/tree/master/0916-decoded-string-at-index) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhil31082005/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1122-longest-duplicate-substring](https://github.com/nikhil31082005/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nikhil31082005/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhil31082005/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhil31082005/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/nikhil31082005/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
