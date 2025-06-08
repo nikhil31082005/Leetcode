@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhil31082005/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Rolling Hash
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
