@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/nikhil31082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nikhil31082005/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nikhil31082005/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhil31082005/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhil31082005/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhil31082005/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2854-decremental-string-concatenation](https://github.com/nikhil31082005/Leetcode/tree/master/2854-decremental-string-concatenation) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhil31082005/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/nikhil31082005/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhil31082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nikhil31082005/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhil31082005/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
