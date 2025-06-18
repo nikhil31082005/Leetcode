@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhil31082005/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/nikhil31082005/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [3195-separate-black-and-white-balls](https://github.com/nikhil31082005/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikhil31082005/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Brainteaser
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/nikhil31082005/Leetcode/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhil31082005/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2854-decremental-string-concatenation](https://github.com/nikhil31082005/Leetcode/tree/master/2854-decremental-string-concatenation) |
+| [3195-separate-black-and-white-balls](https://github.com/nikhil31082005/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhil31082005/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikhil31082005/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/nikhil31082005/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3195-separate-black-and-white-balls](https://github.com/nikhil31082005/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |
 | ------- |
