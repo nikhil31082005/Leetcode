@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhil31082005/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/nikhil31082005/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/nikhil31082005/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nikhil31082005/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikhil31082005/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhil31082005/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/nikhil31082005/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
+| [1829-maximum-units-on-a-truck](https://github.com/nikhil31082005/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhil31082005/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil31082005/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/nikhil31082005/Leetcode/tree/master/2509-minimize-xor) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1829-maximum-units-on-a-truck](https://github.com/nikhil31082005/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nikhil31082005/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nikhil31082005/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
