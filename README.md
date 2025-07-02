@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhil31082005/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nikhil31082005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
 <!---LeetCode Topics End-->
