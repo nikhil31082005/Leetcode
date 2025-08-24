@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/nikhil31082005/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nikhil31082005/Leetcode/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/nikhil31082005/Leetcode/tree/master/0135-candy) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/nikhil31082005/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/nikhil31082005/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhil31082005/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
