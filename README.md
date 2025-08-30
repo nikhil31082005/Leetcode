@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/nikhil31082005/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/nikhil31082005/Leetcode/tree/master/0048-rotate-image) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhil31082005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/nikhil31082005/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nikhil31082005/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nikhil31082005/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
