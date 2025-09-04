@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nikhil31082005/Leetcode/tree/master/0207-course-schedule) |
 | [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhil31082005/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nikhil31082005/Leetcode/tree/master/0207-course-schedule) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nikhil31082005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/nikhil31082005/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0437-path-sum-iii) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/nikhil31082005/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
