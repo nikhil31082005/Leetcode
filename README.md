@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/nikhil31082005/Leetcode/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/nikhil31082005/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nikhil31082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nikhil31082005/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1287-distance-between-bus-stops](https://github.com/nikhil31082005/Leetcode/tree/master/1287-distance-between-bus-stops) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nikhil31082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhil31082005/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nikhil31082005/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/nikhil31082005/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/nikhil31082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhil31082005/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
