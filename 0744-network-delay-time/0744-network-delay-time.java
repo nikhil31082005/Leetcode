@@ -23,7 +23,7 @@ class Solution {
             int node = curr[0];
             int time = curr[1];
 
-            if(time > dist[node]) continue;
+            // if(time > dist[node]) continue;
 
             for(int nbr: map.get(node).keySet()) {
                 int taketime = map.get(node).get(nbr);
