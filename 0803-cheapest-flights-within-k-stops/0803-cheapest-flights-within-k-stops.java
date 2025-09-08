@@ -26,7 +26,7 @@ class Solution {
             for(int nbr: map.get(node).keySet()) {
                 if(cost + map.get(node).get(nbr) < dis[nbr] && stop <= k) {
                     dis[nbr] = cost + map.get(node).get(nbr);
-                    q.add(new int[]{nbr, cost + map.get(node).get(nbr), stop + 1});
+                    q.add(new int[]{nbr, dis[nbr], stop + 1});
                 }
             }
         }
