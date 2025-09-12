@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhil31082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhil31082005/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nikhil31082005/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhil31082005/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhil31082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/nikhil31082005/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/nikhil31082005/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhil31082005/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/nikhil31082005/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhil31082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nikhil31082005/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Number Theory
 |  |
