@@ -38,22 +38,29 @@ class Solution {
         }
     }
     public int removeStones(int[][] stones) {
-        DSU d = new DSU(stones.length);
-        for(int i=0;i<stones.length;i++){
-            for(int j=i+1;j<stones.length;j++){
-                if(stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]) {
-                    d.union(i, j);
-                }
-            }
+        int maxRow = 0, maxCol = 0;
+        for(int[] s : stones) {
+            maxRow = Math.max(maxRow, s[0]);
+            maxCol = Math.max(maxCol, s[1]);
         }
 
-        int count = 0;
-        for(int i=0;i<d.parent.length;i++) {
-            if(i == d.parent[i]) {
-                count++;
-            }
+        DSU dsu = new DSU(maxRow + maxCol + 2);
+
+        HashSet<Integer> used = new HashSet<>();
+
+        for(int[] s : stones) {
+            int rowNode = s[0];
+            int colNode = s[1] + maxRow + 1;
+            dsu.union(rowNode, colNode);
+            used.add(rowNode);
+            used.add(colNode);
         }
 
-        return stones.length - count;
+        int components = 0;
+        for(int node : used) {
+            if(dsu.find(node) == node) components++;
+        }
+
+        return stones.length - components;
     }
 }
