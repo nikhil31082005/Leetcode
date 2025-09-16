@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhil31082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/nikhil31082005/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhil31082005/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhil31082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhil31082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1300-critical-connections-in-a-network](https://github.com/nikhil31082005/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhil31082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhil31082005/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -570,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/nikhil31082005/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
