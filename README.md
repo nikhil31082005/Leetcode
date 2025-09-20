@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/nikhil31082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1039-find-the-town-judge](https://github.com/nikhil31082005/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/nikhil31082005/Leetcode/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/nikhil31082005/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhil31082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1039-find-the-town-judge](https://github.com/nikhil31082005/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/nikhil31082005/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/nikhil31082005/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-cracking-the-safe](https://github.com/nikhil31082005/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhil31082005/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/nikhil31082005/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/nikhil31082005/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhil31082005/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikhil31082005/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
