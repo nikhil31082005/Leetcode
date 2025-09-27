@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nikhil31082005/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1287-distance-between-bus-stops](https://github.com/nikhil31082005/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhil31082005/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhil31082005/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/nikhil31082005/Leetcode/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhil31082005/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/nikhil31082005/Leetcode/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/nikhil31082005/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/nikhil31082005/Leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1829-maximum-units-on-a-truck](https://github.com/nikhil31082005/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/nikhil31082005/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikhil31082005/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhil31082005/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/nikhil31082005/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
