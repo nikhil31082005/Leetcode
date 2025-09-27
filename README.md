@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/nikhil31082005/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
+| [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/nikhil31082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/nikhil31082005/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nikhil31082005/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
+| [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -583,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/nikhil31082005/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
