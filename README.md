@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/nikhil31082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/nikhil31082005/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/nikhil31082005/Leetcode/tree/master/1127-last-stone-weight) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/nikhil31082005/Leetcode/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/nikhil31082005/Leetcode/tree/master/0768-partition-labels) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/nikhil31082005/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikhil31082005/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/nikhil31082005/Leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1829-maximum-units-on-a-truck](https://github.com/nikhil31082005/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1881-closest-subsequence-sum](https://github.com/nikhil31082005/Leetcode/tree/master/1881-closest-subsequence-sum) |
