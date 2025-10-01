@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1642-water-bottles](https://github.com/nikhil31082005/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nikhil31082005/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/nikhil31082005/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikhil31082005/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/nikhil31082005/Leetcode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhil31082005/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikhil31082005/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
