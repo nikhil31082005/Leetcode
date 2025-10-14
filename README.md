@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
 | [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/nikhil31082005/Leetcode/tree/master/0854-making-a-large-island) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/nikhil31082005/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/nikhil31082005/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/nikhil31082005/Leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/nikhil31082005/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1829-maximum-units-on-a-truck](https://github.com/nikhil31082005/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/nikhil31082005/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/nikhil31082005/Leetcode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhil31082005/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nikhil31082005/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/nikhil31082005/Leetcode/tree/master/0649-dota2-senate) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/nikhil31082005/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nikhil31082005/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
