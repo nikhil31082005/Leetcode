@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/nikhil31082005/Leetcode/tree/master/0135-candy) |
 | [0630-course-schedule-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/nikhil31082005/Leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/nikhil31082005/Leetcode/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/nikhil31082005/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/nikhil31082005/Leetcode/tree/master/0306-additive-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil31082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0649-dota2-senate](https://github.com/nikhil31082005/Leetcode/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/nikhil31082005/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/nikhil31082005/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/nikhil31082005/Leetcode/tree/master/0649-dota2-senate) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nikhil31082005/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
