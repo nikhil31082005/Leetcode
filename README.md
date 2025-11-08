@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhil31082005/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/nikhil31082005/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/nikhil31082005/Leetcode/tree/master/0135-candy) |
 | [0630-course-schedule-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhil31082005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/nikhil31082005/Leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/nikhil31082005/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/nikhil31082005/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/nikhil31082005/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/nikhil31082005/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nikhil31082005/Leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nikhil31082005/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/nikhil31082005/Leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/nikhil31082005/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/2050-count-good-numbers) |
