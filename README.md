@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil31082005/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhil31082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/nikhil31082005/Leetcode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/nikhil31082005/Leetcode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/nikhil31082005/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikhil31082005/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/nikhil31082005/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nikhil31082005/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
