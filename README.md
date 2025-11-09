@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nikhil31082005/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/nikhil31082005/Leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil31082005/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/nikhil31082005/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhil31082005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/nikhil31082005/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/nikhil31082005/Leetcode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil31082005/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nikhil31082005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/nikhil31082005/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
