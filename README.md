@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/nikhil31082005/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/nikhil31082005/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nikhil31082005/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikhil31082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikhil31082005/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikhil31082005/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/nikhil31082005/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nikhil31082005/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nikhil31082005/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nikhil31082005/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhil31082005/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikhil31082005/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/nikhil31082005/Leetcode/tree/master/3336-water-bottles-ii) |
