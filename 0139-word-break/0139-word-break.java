@@ -1,9 +1,13 @@
 class Solution {
     HashMap<String,Boolean> map = new HashMap<>();
     public boolean wordBreak(String s, List<String> wordDict) {
-        return iscontain(s,wordDict,"");
+        HashSet<String> set = new HashSet<>();
+        for(String str: wordDict) {
+            set.add(str);
+        }
+        return iscontain(s,set,"");
     }
-    private boolean iscontain(String s, List<String> wordDict, String ans) {
+    private boolean iscontain(String s, HashSet<String> wordDict, String ans) {
         if (s.length() == 0) {
             return wordDict.contains(ans);
         }
