@@ -1,18 +1,28 @@
 class Solution {
+    static final long MOD = 1_000_000_007L;
     public int countTrapezoids(int[][] points) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int MOD = 1000000007;
-        for(int[] arr: points) {
-            map.put(arr[1], map.getOrDefault(arr[1], 0) + 1);
+        Map<Integer, Integer> map = new HashMap<>();
+
+        for (int[] p : points) {
+            map.put(p[1], map.getOrDefault(p[1], 0) + 1);
         }
 
-        long ans = 0;
-        long sum = 0;
-        for(int ele: map.values()) {
-            long edge = ((long) ele * (ele - 1) / 2);
-            ans = (ans + edge * sum) % MOD;
-            sum = (sum + edge) % MOD;
+        List<Long> base = new ArrayList<>();
+        for (int cnt : map.values()) {
+            if (cnt >= 2) {
+                long c = ((long) cnt * (cnt - 1)) / 2;
+                base.add(c % MOD);
+            }
         }
-        return (int) ans;
+
+        long total = 0;
+        long prefix = 0;
+
+        for (long c : base) {
+            total = (total + (prefix * c) % MOD) % MOD;
+            prefix = (prefix + c) % MOD;
+        }
+
+        return (int) total;
     }
 }
