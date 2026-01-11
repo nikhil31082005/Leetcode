@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/nikhil31082005/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/nikhil31082005/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/nikhil31082005/Leetcode/tree/master/0741-cherry-pickup) |
 | [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/nikhil31082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/nikhil31082005/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhil31082005/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/nikhil31082005/Leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/nikhil31082005/Leetcode/tree/master/0741-cherry-pickup) |
 | [0854-making-a-large-island](https://github.com/nikhil31082005/Leetcode/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhil31082005/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikhil31082005/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/nikhil31082005/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nikhil31082005/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nikhil31082005/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0741-cherry-pickup](https://github.com/nikhil31082005/Leetcode/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
