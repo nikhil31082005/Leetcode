@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nikhil31082005/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/nikhil31082005/Leetcode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nikhil31082005/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil31082005/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhil31082005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0630-course-schedule-iii](https://github.com/nikhil31082005/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0744-network-delay-time](https://github.com/nikhil31082005/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/nikhil31082005/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nikhil31082005/Leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/nikhil31082005/Leetcode/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/nikhil31082005/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/nikhil31082005/Leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
