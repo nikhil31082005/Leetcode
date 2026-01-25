@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/nikhil31082005/Leetcode/tree/master/1025-divisor-game) |
+| [1201-ugly-number-iii](https://github.com/nikhil31082005/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nikhil31082005/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/nikhil31082005/Leetcode/tree/master/1642-water-bottles) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/nikhil31082005/Leetcode/tree/master/1122-longest-duplicate-substring) |
+| [1201-ugly-number-iii](https://github.com/nikhil31082005/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nikhil31082005/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/nikhil31082005/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/nikhil31082005/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/nikhil31082005/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhil31082005/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhil31082005/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/nikhil31082005/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/nikhil31082005/Leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 ## Memoization
 |  |
