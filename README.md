@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nikhil31082005/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/nikhil31082005/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/nikhil31082005/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/nikhil31082005/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1122-longest-duplicate-substring](https://github.com/nikhil31082005/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1201-ugly-number-iii](https://github.com/nikhil31082005/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
