@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/nikhil31082005/Leetcode/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/nikhil31082005/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/nikhil31082005/Leetcode/tree/master/0868-push-dominoes) |
+| [0935-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0935-knight-dialer) |
 | [0972-knight-dialer](https://github.com/nikhil31082005/Leetcode/tree/master/0972-knight-dialer) |
 | [1025-divisor-game](https://github.com/nikhil31082005/Leetcode/tree/master/1025-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/nikhil31082005/Leetcode/tree/master/1170-shortest-common-supersequence) |
