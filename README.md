@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/nikhil31082005/Leetcode/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/nikhil31082005/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0830-largest-triangle-area](https://github.com/nikhil31082005/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0878-nth-magical-number](https://github.com/nikhil31082005/Leetcode/tree/master/0878-nth-magical-number) |
 | [0900-reordered-power-of-2](https://github.com/nikhil31082005/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhil31082005/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/nikhil31082005/Leetcode/tree/master/1025-divisor-game) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/nikhil31082005/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0878-nth-magical-number](https://github.com/nikhil31082005/Leetcode/tree/master/0878-nth-magical-number) |
 | [1122-longest-duplicate-substring](https://github.com/nikhil31082005/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1201-ugly-number-iii](https://github.com/nikhil31082005/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1753-path-with-minimum-effort](https://github.com/nikhil31082005/Leetcode/tree/master/1753-path-with-minimum-effort) |
